@@ -1,0 +1,32 @@
+.t {
+    width: 100vw;
+    height: 88vh;
+    padding: 2vh 8vw 0 8vw;
+    background-color: whitesmoke;
+}
+
+.t-table {
+    box-shadow: 0px 15px 20px rgba(74, 80, 78, 0.4);
+    border-radius: 10px;
+}
+
+.t-head {
+    background-color: #2B2B2B;
+    color: whitesmoke;
+}
+
+tr, td {
+    height: 8vh;
+}
+
+.t-button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 8vh;
+    border: none;
+    cursor: pointer;
+}
+.pointer {
+    cursor: pointer;
+}

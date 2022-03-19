@@ -1,0 +1,14 @@
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+
+  .todo-item-checkbox {
+      display: flex;
+      flex-direction: row;
+  }
+
+  Button {
+      max-height: 40px;
+  }
